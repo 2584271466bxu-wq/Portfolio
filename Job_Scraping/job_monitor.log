@@ -1,0 +1,422 @@
+2026-02-22 16:51:36,161 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 16:51:36,162 - INFO - Starting daily job scan...
+2026-02-22 16:51:36,162 - INFO - Scraping GitHub job lists...
+2026-02-22 16:51:37,311 - INFO - Found 0 jobs from GitHub
+2026-02-22 16:51:37,312 - INFO - Scraping LinkedIn...
+2026-02-22 16:52:00,000 - INFO - Found 50 jobs from LinkedIn
+2026-02-22 16:52:00,001 - INFO - Scraping Indeed...
+2026-02-22 16:52:00,870 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:03,521 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:06,239 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:08,898 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:11,545 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:14,201 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:16,851 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:19,527 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:22,177 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 16:52:24,179 - INFO - Found 0 jobs from Indeed
+2026-02-22 16:52:24,180 - INFO - Scraping company career pages...
+2026-02-22 16:52:27,737 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-22 16:52:38,905 - INFO - Found 22 jobs from company career pages
+2026-02-22 16:52:39,281 - INFO - Total jobs found: 72, New jobs: 45
+2026-02-22 16:52:39,314 - INFO - Exported 28 jobs to jobs_20260222.csv
+2026-02-22 16:52:39,325 - INFO - Email notifications disabled.
+2026-02-22 16:52:39,326 - INFO - Slack notifications disabled.
+2026-02-22 17:05:45,570 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:05:45,571 - INFO - Starting daily job scan...
+2026-02-22 17:05:45,572 - INFO - Scraping GitHub job lists...
+2026-02-22 17:05:46,730 - INFO - Found 0 jobs from GitHub
+2026-02-22 17:05:46,730 - INFO - Scraping LinkedIn...
+2026-02-22 17:06:09,395 - INFO - Found 50 jobs from LinkedIn
+2026-02-22 17:06:09,396 - INFO - Scraping Indeed...
+2026-02-22 17:06:10,082 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:12,743 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:15,439 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:18,087 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:20,779 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:23,432 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:26,110 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:28,811 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:31,496 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:06:33,498 - INFO - Found 0 jobs from Indeed
+2026-02-22 17:06:33,499 - INFO - Scraping company career pages...
+2026-02-22 17:06:37,348 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-22 17:06:48,489 - INFO - Found 22 jobs from company career pages
+2026-02-22 17:06:48,581 - INFO - Total jobs found: 72, New jobs: 2
+2026-02-22 17:07:54,038 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:07:54,074 - INFO - Exported 3 jobs to jobs_20260222.csv
+2026-02-22 17:07:54,609 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-8cb8d064007sm604225385a.19 - gsmtp')
+2026-02-22 17:07:54,609 - INFO - Slack notifications disabled.
+2026-02-22 17:07:58,619 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:07:58,640 - INFO - Exported 3 jobs to jobs_20260222.csv
+2026-02-22 17:07:58,962 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-8cb8d0614e0sm542104485a.13 - gsmtp')
+2026-02-22 17:07:58,962 - INFO - Slack notifications disabled.
+2026-02-22 17:15:43,552 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:15:43,587 - INFO - Exported 3 jobs to jobs_20260222.csv
+2026-02-22 17:15:44,058 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-8997e637200sm52059256d6.44 - gsmtp')
+2026-02-22 17:15:44,059 - INFO - Slack notifications disabled.
+2026-02-22 17:16:00,125 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:16:00,146 - INFO - Exported 3 jobs to jobs_20260222.csv
+2026-02-22 17:16:01,768 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-22 17:16:01,769 - INFO - Slack notifications disabled.
+2026-02-22 17:17:38,292 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:18:21,679 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:21:52,804 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:22:41,032 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:22:41,033 - INFO - Starting daily job scan...
+2026-02-22 17:22:41,033 - INFO - Scraping GitHub job lists...
+2026-02-22 17:22:42,202 - INFO - Found 0 jobs from GitHub
+2026-02-22 17:22:42,202 - INFO - Scraping LinkedIn...
+2026-02-22 17:23:05,153 - INFO - Found 49 jobs from LinkedIn
+2026-02-22 17:23:05,154 - INFO - Scraping Indeed...
+2026-02-22 17:23:05,878 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:08,589 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:11,256 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:13,923 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:16,603 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:19,261 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:21,910 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:24,737 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:27,425 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:23:29,429 - INFO - Found 0 jobs from Indeed
+2026-02-22 17:23:29,429 - INFO - Scraping company career pages...
+2026-02-22 17:23:32,988 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-22 17:23:41,651 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-22 17:24:14,201 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-22 17:24:27,095 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-22 17:24:42,262 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-22 17:24:50,704 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-22 17:25:15,029 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-22 17:25:29,606 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-22 17:25:32,557 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-22 17:25:38,499 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-22 17:25:44,268 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-22 17:26:00,084 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-22 17:26:16,043 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-22 17:26:34,198 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-22 17:26:40,612 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-22 17:26:50,701 - INFO - Found 73 jobs from company career pages
+2026-02-22 17:26:51,220 - INFO - Total jobs found: 122, New jobs: 54
+2026-02-22 17:26:51,261 - INFO - Exported 28 jobs to jobs_20260222.csv
+2026-02-22 17:26:52,771 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-22 17:26:52,772 - INFO - Slack notifications disabled.
+2026-02-22 17:29:55,371 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:30:02,564 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:30:02,565 - INFO - Starting daily job scan...
+2026-02-22 17:30:02,565 - INFO - Scraping GitHub job lists...
+2026-02-22 17:30:03,692 - INFO - Found 0 jobs from GitHub
+2026-02-22 17:30:03,693 - INFO - Scraping LinkedIn...
+2026-02-22 17:30:25,934 - INFO - Found 49 jobs from LinkedIn
+2026-02-22 17:30:25,935 - INFO - Scraping Indeed...
+2026-02-22 17:30:26,633 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:29,360 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:32,036 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:34,679 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:37,337 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:39,983 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:42,640 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:45,295 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:47,973 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:30:49,975 - INFO - Found 0 jobs from Indeed
+2026-02-22 17:30:49,975 - INFO - Scraping company career pages...
+2026-02-22 17:30:53,534 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-22 17:31:02,121 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-22 17:31:35,235 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-22 17:31:47,624 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-22 17:32:02,816 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-22 17:32:11,190 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-22 17:32:43,858 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-22 17:32:58,351 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-22 17:33:01,372 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-22 17:33:07,112 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-22 17:33:12,893 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-22 17:33:28,830 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-22 17:33:45,825 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-22 17:34:04,182 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-22 17:34:10,728 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-22 17:34:19,591 - INFO - Found 15 jobs from company career pages
+2026-02-22 17:34:19,685 - INFO - Total jobs found: 64, New jobs: 1
+2026-02-22 17:34:19,897 - INFO - Exported 1 jobs to jobs_20260222.csv
+2026-02-22 17:34:21,194 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-22 17:34:21,195 - INFO - Slack notifications disabled.
+2026-02-22 17:35:43,777 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:37:50,603 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:38:02,505 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-22 17:38:02,506 - INFO - Starting daily job scan...
+2026-02-22 17:38:02,506 - INFO - Scraping GitHub job lists...
+2026-02-22 17:38:03,659 - INFO - Found 0 jobs from GitHub
+2026-02-22 17:38:03,660 - INFO - Scraping LinkedIn...
+2026-02-22 17:38:26,250 - INFO - Found 50 jobs from LinkedIn
+2026-02-22 17:38:26,251 - INFO - Scraping Indeed...
+2026-02-22 17:38:26,999 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:29,694 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:32,360 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:35,036 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:37,711 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:40,368 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:43,043 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:45,754 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:48,420 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-22 17:38:50,422 - INFO - Found 0 jobs from Indeed
+2026-02-22 17:38:50,422 - INFO - Scraping company career pages...
+2026-02-22 17:38:53,951 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-22 17:39:02,715 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-22 17:39:38,564 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-22 17:39:50,858 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-22 17:40:05,744 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-22 17:40:14,144 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-22 17:40:46,798 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-22 17:41:30,606 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: HTTPSConnectionPool(host='www.pwc.com', port=443): Read timed out. (read timeout=30)
+2026-02-22 17:41:33,475 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-22 17:41:39,374 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-22 17:41:45,063 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-22 17:42:00,785 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-22 17:42:17,537 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-22 17:42:35,851 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-22 17:42:42,469 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-22 17:42:51,288 - INFO - Found 15 jobs from company career pages
+2026-02-22 17:42:51,369 - INFO - Total jobs found: 65, New jobs: 1
+2026-02-22 17:42:51,459 - INFO - Exported 10 jobs to jobs_20260222.csv
+2026-02-22 17:42:52,801 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-22 17:42:52,801 - INFO - Slack notifications disabled.
+2026-02-23 19:04:49,709 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-23 19:04:49,711 - INFO - Starting daily job scan...
+2026-02-23 19:04:49,711 - INFO - Scraping GitHub job lists...
+2026-02-23 19:04:51,310 - INFO - Found 0 jobs from GitHub
+2026-02-23 19:04:51,310 - INFO - Scraping LinkedIn...
+2026-02-23 19:05:13,709 - INFO - Found 47 jobs from LinkedIn
+2026-02-23 19:05:13,709 - INFO - Scraping Indeed...
+2026-02-23 19:05:14,547 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:17,375 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:20,342 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:23,121 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:25,947 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:28,754 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:31,589 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:34,379 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:37,350 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-23 19:05:39,356 - INFO - Found 0 jobs from Indeed
+2026-02-23 19:05:39,358 - INFO - Scraping company career pages...
+2026-02-23 19:05:43,246 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-23 19:05:52,478 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-23 19:06:27,427 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-23 19:06:40,918 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-23 19:06:57,270 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-23 19:07:06,656 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-23 19:07:39,656 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-23 19:07:54,588 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-23 19:07:57,471 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-23 19:08:03,572 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-23 19:08:10,092 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-23 19:08:26,843 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-23 19:08:45,403 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-23 19:09:03,666 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-23 19:09:10,454 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-23 19:09:21,111 - INFO - Found 14 jobs from company career pages
+2026-02-23 19:09:21,527 - INFO - Total jobs found: 61, New jobs: 36
+2026-02-23 19:09:21,602 - INFO - Exported 30 jobs to C:\Job\Job_Scraping\daily_jobs.csv
+2026-02-23 19:09:23,263 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-23 19:09:23,264 - INFO - Slack notifications disabled.
+2026-02-25 17:04:57,287 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-25 17:04:57,289 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-25 17:04:57,346 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-25 17:04:57,347 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-25 17:06:09,443 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-25 17:06:09,443 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-25 17:06:24,949 - INFO - 127.0.0.1 - - [25/Feb/2026 17:06:24] "GET / HTTP/1.1" 200 -
+2026-02-25 17:06:25,225 - INFO - 127.0.0.1 - - [25/Feb/2026 17:06:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-25 17:06:39,059 - INFO - 127.0.0.1 - - [25/Feb/2026 17:06:39] "GET / HTTP/1.1" 200 -
+2026-02-25 17:12:26,179 - INFO - Resume profile loaded: 4 roles, 8 skills, sponsorship_needed=True
+2026-02-25 17:12:26,182 - INFO - Starting daily job scan...
+2026-02-25 17:12:26,183 - INFO - Scraping GitHub job lists...
+2026-02-25 17:12:27,460 - INFO - Found 0 jobs from GitHub
+2026-02-25 17:12:27,461 - INFO - Scraping LinkedIn...
+2026-02-25 17:12:50,332 - INFO - Found 70 jobs from LinkedIn
+2026-02-25 17:12:50,332 - INFO - Scraping Indeed...
+2026-02-25 17:12:51,203 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:12:54,066 - ERROR - Error fetching https://www.indeed.com/jobs?q=software engineer intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20engineer%20intern&l=United%20States&sort=date&fromage=1
+2026-02-25 17:12:57,036 - ERROR - Error fetching https://www.indeed.com/jobs?q=software developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=software%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:12:59,959 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:02,932 - ERROR - Error fetching https://www.indeed.com/jobs?q=data scientist intern&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20scientist%20intern&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:05,802 - ERROR - Error fetching https://www.indeed.com/jobs?q=machine learning engineer&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=machine%20learning%20engineer&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:08,669 - ERROR - Error fetching https://www.indeed.com/jobs?q=backend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=backend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:11,550 - ERROR - Error fetching https://www.indeed.com/jobs?q=frontend engineer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=frontend%20engineer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:14,385 - ERROR - Error fetching https://www.indeed.com/jobs?q=full stack developer new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=full%20stack%20developer%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:13:16,387 - INFO - Found 0 jobs from Indeed
+2026-02-25 17:13:16,388 - INFO - Scraping company career pages...
+2026-02-25 17:13:20,329 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-25 17:13:29,535 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-25 17:14:08,000 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-25 17:14:21,184 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-25 17:14:38,124 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-25 17:14:47,384 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-25 17:15:20,226 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-25 17:15:35,974 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-25 17:15:39,098 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-25 17:15:45,105 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-25 17:15:51,330 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-25 17:16:09,075 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-25 17:16:29,075 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-25 17:16:48,620 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-25 17:16:55,791 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-25 17:17:06,828 - INFO - Found 14 jobs from company career pages
+2026-02-25 17:17:07,450 - INFO - Total jobs found: 84, New jobs: 36
+2026-02-25 17:17:07,614 - INFO - Exported 14 jobs to C:\Job\Job_Scraping\daily_jobs.csv
+2026-02-25 17:17:09,206 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-25 17:17:09,207 - INFO - Slack notifications disabled.
+2026-02-25 17:17:09,250 - INFO - 127.0.0.1 - - [25/Feb/2026 17:17:09] "[32mPOST /run HTTP/1.1[0m" 302 -
+2026-02-25 17:17:09,350 - INFO - 127.0.0.1 - - [25/Feb/2026 17:17:09] "GET / HTTP/1.1" 200 -
+2026-02-25 17:18:43,671 - INFO - Resume profile loaded: 12 roles, 15 skills, sponsorship_needed=True
+2026-02-25 17:21:37,047 - INFO - 127.0.0.1 - - [25/Feb/2026 17:21:37] "GET / HTTP/1.1" 200 -
+2026-02-25 17:22:51,412 - INFO - 127.0.0.1 - - [25/Feb/2026 17:22:51] "GET / HTTP/1.1" 200 -
+2026-02-25 17:22:51,688 - INFO - 127.0.0.1 - - [25/Feb/2026 17:22:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-25 17:23:16,029 - INFO - Resume profile loaded: 12 roles, 15 skills, sponsorship_needed=True
+2026-02-25 17:23:16,030 - INFO - Starting daily job scan...
+2026-02-25 17:23:16,030 - INFO - Scraping GitHub job lists...
+2026-02-25 17:23:17,588 - INFO - Found 0 jobs from GitHub
+2026-02-25 17:23:17,588 - INFO - Scraping LinkedIn...
+2026-02-25 17:23:48,446 - INFO - Found 92 jobs from LinkedIn
+2026-02-25 17:23:48,450 - INFO - Scraping Indeed...
+2026-02-25 17:23:49,303 - ERROR - Error fetching https://www.indeed.com/jobs?q=product manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=product%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:23:52,166 - ERROR - Error fetching https://www.indeed.com/jobs?q=associate product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=associate%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-02-25 17:23:54,973 - ERROR - Error fetching https://www.indeed.com/jobs?q=technical product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=technical%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-02-25 17:23:57,757 - ERROR - Error fetching https://www.indeed.com/jobs?q=business analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=business%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:00,761 - ERROR - Error fetching https://www.indeed.com/jobs?q=risk analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=risk%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:03,560 - ERROR - Error fetching https://www.indeed.com/jobs?q=compliance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=compliance%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:06,463 - ERROR - Error fetching https://www.indeed.com/jobs?q=trust and safety&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=trust%20and%20safety&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:09,106 - ERROR - Error fetching https://www.indeed.com/jobs?q=operations analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=operations%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:11,807 - ERROR - Error fetching https://www.indeed.com/jobs?q=strategy analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=strategy%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:14,608 - ERROR - Error fetching https://www.indeed.com/jobs?q=governance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=governance%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:17,309 - INFO - 127.0.0.1 - - [25/Feb/2026 17:24:17] "GET / HTTP/1.1" 200 -
+2026-02-25 17:24:17,618 - ERROR - Error fetching https://www.indeed.com/jobs?q=data analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:19,971 - INFO - Resume profile loaded: 12 roles, 15 skills, sponsorship_needed=True
+2026-02-25 17:24:19,972 - INFO - Starting daily job scan...
+2026-02-25 17:24:19,972 - INFO - Scraping GitHub job lists...
+2026-02-25 17:24:20,591 - ERROR - Error fetching https://www.indeed.com/jobs?q=program manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=program%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:21,196 - INFO - Found 0 jobs from GitHub
+2026-02-25 17:24:21,197 - INFO - Scraping LinkedIn...
+2026-02-25 17:24:22,593 - INFO - Found 0 jobs from Indeed
+2026-02-25 17:24:22,594 - INFO - Scraping company career pages...
+2026-02-25 17:24:26,486 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-25 17:24:35,562 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-25 17:24:51,803 - INFO - Found 96 jobs from LinkedIn
+2026-02-25 17:24:51,804 - INFO - Scraping Indeed...
+2026-02-25 17:24:52,844 - ERROR - Error fetching https://www.indeed.com/jobs?q=product manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=product%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:55,715 - ERROR - Error fetching https://www.indeed.com/jobs?q=associate product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=associate%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-02-25 17:24:58,557 - ERROR - Error fetching https://www.indeed.com/jobs?q=technical product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=technical%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:01,306 - ERROR - Error fetching https://www.indeed.com/jobs?q=business analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=business%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:04,109 - ERROR - Error fetching https://www.indeed.com/jobs?q=risk analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=risk%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:06,972 - ERROR - Error fetching https://www.indeed.com/jobs?q=compliance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=compliance%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:09,874 - ERROR - Error fetching https://www.indeed.com/jobs?q=trust and safety&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=trust%20and%20safety&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:11,670 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-25 17:25:12,846 - ERROR - Error fetching https://www.indeed.com/jobs?q=operations analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=operations%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:16,011 - ERROR - Error fetching https://www.indeed.com/jobs?q=strategy analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=strategy%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:19,000 - ERROR - Error fetching https://www.indeed.com/jobs?q=governance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=governance%20analyst&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:21,934 - ERROR - Error fetching https://www.indeed.com/jobs?q=data analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:24,732 - ERROR - Error fetching https://www.indeed.com/jobs?q=program manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=program%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-02-25 17:25:25,684 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-25 17:25:26,735 - INFO - Found 0 jobs from Indeed
+2026-02-25 17:25:26,736 - INFO - Scraping company career pages...
+2026-02-25 17:25:30,558 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-02-25 17:25:39,750 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-02-25 17:25:42,086 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-25 17:25:51,229 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-25 17:26:17,168 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-02-25 17:26:24,252 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-25 17:26:31,660 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-02-25 17:26:40,065 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-25 17:26:43,012 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-25 17:26:47,756 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-02-25 17:26:48,931 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-25 17:26:55,009 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-25 17:26:56,443 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-02-25 17:27:11,825 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-25 17:27:29,325 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-02-25 17:27:29,757 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-25 17:27:44,597 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: 404 Client Error: Not Found for url: https://www.pwc.com/us/en/careers/job-search.html
+2026-02-25 17:27:47,980 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-25 17:27:48,785 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-25 17:27:53,975 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-02-25 17:27:56,962 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-25 17:28:00,213 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-02-25 17:28:06,483 - INFO - Found 14 jobs from company career pages
+2026-02-25 17:28:07,319 - INFO - Total jobs found: 106, New jobs: 76
+2026-02-25 17:28:07,631 - INFO - Exported 33 jobs to C:\Job\Job_Scraping\daily_jobs.csv
+2026-02-25 17:28:09,241 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-25 17:28:09,242 - INFO - Slack notifications disabled.
+2026-02-25 17:28:17,233 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-02-25 17:28:33,883 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-02-25 17:28:53,460 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-02-25 17:29:00,048 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-02-25 17:29:09,278 - INFO - Found 14 jobs from company career pages
+2026-02-25 17:29:09,777 - INFO - Total jobs found: 110, New jobs: 38
+2026-02-25 17:29:09,828 - INFO - Exported 19 jobs to C:\Job\Job_Scraping\daily_jobs.csv
+2026-02-25 17:29:11,546 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-02-25 17:29:11,547 - INFO - Slack notifications disabled.
+2026-02-25 17:29:11,604 - INFO - 127.0.0.1 - - [25/Feb/2026 17:29:11] "[32mPOST /run HTTP/1.1[0m" 302 -
+2026-02-25 17:29:11,644 - INFO - 127.0.0.1 - - [25/Feb/2026 17:29:11] "GET / HTTP/1.1" 200 -
+2026-02-25 17:45:00,161 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-25 17:45:00,165 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-25 17:45:00,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-25 17:45:00,166 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 13:12:37,416 - INFO - 127.0.0.1 - - [26/Feb/2026 13:12:37] "GET / HTTP/1.1" 200 -
+2026-02-27 12:46:12,745 - INFO - 127.0.0.1 - - [27/Feb/2026 12:46:12] "GET / HTTP/1.1" 200 -
+2026-03-01 21:22:16,164 - INFO - 127.0.0.1 - - [01/Mar/2026 21:22:16] "GET / HTTP/1.1" 200 -
+2026-03-01 21:22:16,514 - INFO - 127.0.0.1 - - [01/Mar/2026 21:22:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-03 16:19:25,046 - INFO - 127.0.0.1 - - [03/Mar/2026 16:19:25] "GET / HTTP/1.1" 200 -
+2026-03-03 16:19:38,937 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-03 16:19:38,937 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-03 19:07:34,542 - INFO - 127.0.0.1 - - [03/Mar/2026 19:07:34] "GET / HTTP/1.1" 200 -
+2026-03-03 19:07:34,688 - INFO - 127.0.0.1 - - [03/Mar/2026 19:07:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-03 19:07:36,167 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-03 19:07:36,167 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-03 19:07:38,430 - INFO - Resume profile loaded: 12 roles, 15 skills, sponsorship_needed=True
+2026-03-03 19:07:38,430 - INFO - Starting daily job scan...
+2026-03-03 19:07:38,431 - INFO - Scraping GitHub job lists...
+2026-03-03 19:07:40,142 - INFO - Found 0 jobs from GitHub
+2026-03-03 19:07:40,142 - INFO - Scraping LinkedIn...
+2026-03-03 19:08:11,914 - INFO - Found 97 jobs from LinkedIn
+2026-03-03 19:08:11,915 - INFO - Scraping Indeed...
+2026-03-03 19:08:12,759 - ERROR - Error fetching https://www.indeed.com/jobs?q=product manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=product%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:15,512 - ERROR - Error fetching https://www.indeed.com/jobs?q=associate product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=associate%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:18,360 - ERROR - Error fetching https://www.indeed.com/jobs?q=technical product manager&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=technical%20product%20manager&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:21,341 - ERROR - Error fetching https://www.indeed.com/jobs?q=business analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=business%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:24,235 - ERROR - Error fetching https://www.indeed.com/jobs?q=risk analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=risk%20analyst&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:27,101 - ERROR - Error fetching https://www.indeed.com/jobs?q=compliance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=compliance%20analyst&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:29,978 - ERROR - Error fetching https://www.indeed.com/jobs?q=trust and safety&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=trust%20and%20safety&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:32,984 - ERROR - Error fetching https://www.indeed.com/jobs?q=operations analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=operations%20analyst&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:35,946 - ERROR - Error fetching https://www.indeed.com/jobs?q=strategy analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=strategy%20analyst&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:38,800 - ERROR - Error fetching https://www.indeed.com/jobs?q=governance analyst&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=governance%20analyst&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:41,702 - ERROR - Error fetching https://www.indeed.com/jobs?q=data analyst new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data%20analyst%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:44,612 - ERROR - Error fetching https://www.indeed.com/jobs?q=program manager new grad&l=United States&sort=date&fromage=1: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=program%20manager%20new%20grad&l=United%20States&sort=date&fromage=1
+2026-03-03 19:08:46,618 - INFO - Found 0 jobs from Indeed
+2026-03-03 19:08:46,618 - INFO - Scraping company career pages...
+2026-03-03 19:08:50,555 - ERROR - Error fetching https://www.metacareers.com/jobs?teams[0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design: 400 Client Error: Bad Request for url: https://www.metacareers.com/jobs?teams%5B0%5D=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams%5B1%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design
+2026-03-03 19:08:59,932 - ERROR - Error fetching https://openai.com/careers: 403 Client Error: Forbidden for url: https://openai.com/careers
+2026-03-03 19:09:35,185 - ERROR - Error fetching https://huggingface.co/jobs: 404 Client Error: Not Found for url: https://huggingface.co/jobs
+2026-03-03 19:09:49,097 - ERROR - Error fetching https://careers.block.xyz/us/en: HTTPSConnectionPool(host='careers.block.xyz', port=443): Max retries exceeded with url: /us/en (Caused by NameResolutionError("HTTPSConnection(host='careers.block.xyz', port=443): Failed to resolve 'careers.block.xyz' ([Errno 11001] getaddrinfo failed)"))
+2026-03-03 19:10:08,060 - ERROR - Error fetching https://careers.chime.com/: 403 Client Error: Forbidden for url: https://careers.chime.com/
+2026-03-03 19:10:17,391 - ERROR - Error fetching https://www.fenergo.com/company/careers: 404 Client Error: Not Found for url: https://www.fenergo.com/company/careers
+2026-03-03 19:10:51,247 - ERROR - Error fetching https://www.mckinsey.com/careers/search-jobs: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=30)
+2026-03-03 19:11:36,582 - ERROR - Error fetching https://www.pwc.com/us/en/careers/job-search.html: HTTPSConnectionPool(host='www.pwc.com', port=443): Read timed out. (read timeout=30)
+2026-03-03 19:11:39,722 - ERROR - Error fetching https://www.kpmgcareers.com/: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-03 19:11:45,760 - ERROR - Error fetching https://www.zs.com/careers/open-roles: 404 Client Error: Not Found for url: https://www.zs.com/careers/open-roles
+2026-03-03 19:11:51,845 - ERROR - Error fetching https://careers.servicenow.com/careers/jobs: 403 Client Error: Forbidden for url: https://careers.servicenow.com/careers/jobs
+2026-03-03 19:12:09,613 - ERROR - Error fetching https://higher.gs.com/jobs: 404 Client Error: Not Found for url: https://higher.gs.com/jobs
+2026-03-03 19:12:26,777 - ERROR - Error fetching https://careers.twosigma.com/careers/SearchJobs/: 404 Client Error: Not Found for url: https://careers.twosigma.com/careers/SearchJobs/
+2026-03-03 19:12:45,730 - ERROR - Error fetching https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+2026-03-03 19:12:52,494 - ERROR - Error fetching https://www.alpha-sense.com/company/careers/: 404 Client Error: Not Found for url: https://www.alpha-sense.com/company/careers/
+2026-03-03 19:13:02,069 - INFO - Found 14 jobs from company career pages
+2026-03-03 19:13:03,310 - INFO - Total jobs found: 111, New jobs: 91
+2026-03-03 19:13:03,859 - INFO - Exported 29 jobs to C:\Job\Job_Scraping\daily_jobs.csv
+2026-03-03 19:13:05,535 - INFO - Email sent successfully to 2584271466bxu@gmail.com
+2026-03-03 19:13:05,536 - INFO - Slack notifications disabled.
+2026-03-03 19:13:05,625 - INFO - 127.0.0.1 - - [03/Mar/2026 19:13:05] "[32mPOST /run HTTP/1.1[0m" 302 -
+2026-03-03 19:13:05,737 - INFO - 127.0.0.1 - - [03/Mar/2026 19:13:05] "GET / HTTP/1.1" 200 -

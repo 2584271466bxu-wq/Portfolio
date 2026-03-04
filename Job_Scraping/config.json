@@ -1,0 +1,201 @@
+{
+  "db_path": "jobs.db",
+  "keywords": [
+    "product manager new grad",
+    "associate product manager",
+    "technical product manager",
+    "business analyst new grad",
+    "risk analyst",
+    "compliance analyst",
+    "trust and safety",
+    "operations analyst",
+    "strategy analyst",
+    "governance analyst",
+    "data analyst new grad",
+    "program manager new grad"
+  ],
+  "locations": [
+    "United States",
+    "Remote"
+  ],
+  "job_types": [
+    "fulltime",
+    "intern",
+    "new_grad"
+  ],
+  "scrapers": [
+    "github",
+    "linkedin",
+    "indeed",
+    "companies"
+  ],
+  "target_companies": [
+    "google",
+    "meta",
+    "amazon",
+    "microsoft",
+    "openai",
+    "anthropic",
+    "databricks",
+    "snowflake",
+    "palantir",
+    "nvidia",
+    "pinecone",
+    "weaviate",
+    "cohere",
+    "scale_ai",
+    "huggingface",
+    "weights_biases",
+    "langchain",
+    "stripe",
+    "block",
+    "adyen",
+    "plaid",
+    "brex",
+    "ramp",
+    "chime",
+    "robinhood",
+    "workiva",
+    "fenergo",
+    "mckinsey",
+    "bcg",
+    "bain",
+    "deloitte",
+    "pwc",
+    "kpmg",
+    "accenture",
+    "zs",
+    "salesforce",
+    "servicenow",
+    "workday",
+    "sap",
+    "oracle",
+    "atlassian",
+    "goldman_sachs",
+    "jpmorgan",
+    "morgan_stanley",
+    "blackrock",
+    "citadel",
+    "two_sigma",
+    "bridgewater",
+    "deel",
+    "remote",
+    "rippling",
+    "papaya_global",
+    "gusto",
+    "dataminr",
+    "alphasense",
+    "hyperscience",
+    "tractable"
+  ],
+  "_comment_target_companies": "Add/remove companies to scrape. Options: google, meta, amazon, microsoft, apple",
+  
+  "visa_filter": true,
+  "_comment_visa": "Set to true to highlight/filter jobs that sponsor visas (important for international students)",
+  
+  "schedule": {
+    "daily_time": "09:00",
+    "timezone": "America/New_York"
+  },
+  
+  "email": {
+    "enabled": true,
+    "_comment": "To enable email notifications, set enabled to true and fill in your details below",
+    "_setup_guide": "For Gmail: Enable 2FA, then go to Google Account > Security > App Passwords > Generate",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "2584271466bxu@gmail.com",
+    "sender_password": "phoowlqaaslmebqb",
+    "recipient_email": "2584271466bxu@gmail.com"
+  },
+  
+  "slack": {
+    "enabled": false,
+    "_comment": "To enable Slack notifications, create an incoming webhook and paste the URL below",
+    "_setup_guide": "Go to api.slack.com/apps > Create App > Incoming Webhooks > Add to Workspace",
+    "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+  },
+  
+  "export": {
+    "csv_enabled": true,
+    "csv_path": "daily_jobs.csv",
+    "excel_enabled": false,
+    "excel_path": "daily_jobs.xlsx"
+  },
+  "backlog": {
+    "enabled": true,
+    "since_days": 7,
+    "max_jobs": 10
+  },
+  
+  "terminal": {
+    "color_output": true,
+    "max_display": 15
+  },
+  
+  "filters": {
+    "exclude_companies": [],
+    "include_only_locations": [],
+    "min_match_score": 28,
+    "include_unknown_visa": true,
+    "require_role_or_skill_match": true,
+    "exclude_title_keywords": [
+      "software engineer",
+      "software developer",
+      "machine learning engineer",
+      "ml engineer",
+      "backend engineer",
+      "frontend engineer",
+      "full stack",
+      "devops",
+      "site reliability",
+      "sre",
+      "phd",
+      "ph.d",
+      "doctoral",
+      "postdoc",
+      "5+ years",
+      "5 years"
+    ]
+  },
+  "resume_profile": {
+    "resume_path": "C:\\Job\\Xu_Nicole_Columbia_QMSS.pdf",
+    "needs_sponsorship": true,
+    "target_roles": [
+      "product manager",
+      "associate product manager",
+      "technical product manager",
+      "business analyst",
+      "risk analyst",
+      "compliance analyst",
+      "trust and safety",
+      "operations analyst",
+      "strategy analyst",
+      "governance analyst",
+      "data analyst",
+      "program manager"
+    ],
+    "skill_keywords": [
+      "risk",
+      "compliance",
+      "governance",
+      "policy",
+      "operations",
+      "strategy",
+      "analytics",
+      "stakeholder",
+      "sql",
+      "tableau"
+    ],
+    "preferred_locations": [
+      "United States",
+      "Remote",
+      "New York"
+    ],
+    "preferred_job_types": [
+      "new_grad",
+      "fulltime",
+      "intern"
+    ]
+  }
+}
