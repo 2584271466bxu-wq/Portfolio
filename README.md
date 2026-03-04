@@ -42,8 +42,8 @@ This repository is a central hub for my projects. It is designed for fast recrui
 
 | Project | Focus | Tech Stack | Link |
 |---|---|---|---|
-| Bangumi API Client | API integration, data handling, modular client design | _Add stack (e.g., Python, Requests, JSON)_ | https://github.com/2584271466bxu-wq/Bangumi_API_Client |
-| Job Scraping Automation | Job data collection, monitoring, and lightweight app interface | Python, SQLite, CSV, automation scripts | `Job_Scraping/` |
+| Bangumi API Client | API integration, data handling, modular client design | Python, REST API, Requests, JSON | https://github.com/2584271466bxu-wq/Bangumi_API_Client |
+| Job Scraping Automation | Job data collection, monitoring, and lightweight app interface | Python, SQLite, CSV, Flask, automation scripts | `Job_Scraping/` |
 
 ## Skills Demonstrated Across Projects
 
