@@ -6,7 +6,7 @@ This repository is a central hub for my projects. It is designed for fast recrui
 
 ### Bangumi API Client
 **Repository:** https://github.com/2584271466bxu-wq/Bangumi_API_Client  
-**Status:** Active development
+**Status:** Closed
 
 **What it is**
 - A client application that integrates with the Bangumi API to fetch and manage anime-related data.
@@ -44,7 +44,6 @@ This repository is a central hub for my projects. It is designed for fast recrui
 |---|---|---|---|
 | Bangumi API Client | API integration, data handling, modular client design | _Add stack (e.g., Python, Requests, JSON)_ | https://github.com/2584271466bxu-wq/Bangumi_API_Client |
 | Job Scraping Automation | Job data collection, monitoring, and lightweight app interface | Python, SQLite, CSV, automation scripts | `Job_Scraping/` |
-| _Add Project Name_ | _Core problem solved_ | _Add stack_ | _Add link_ |
 
 ## Skills Demonstrated Across Projects
 
@@ -56,13 +55,17 @@ This repository is a central hub for my projects. It is designed for fast recrui
 
 ## About Me
 
-I am interested in software engineering, data/product analytics, and technical product roles. I enjoy building user-focused tools and turning ambiguous problems into structured, testable solutions.
+Hi, I'm Nicole.
+
+I'm currently studying quantitative methods at Columbia University. I'm interested in using data and AI to understand human behavior, build useful tools, and explore questions that combine technology with real-world decision making.
+
+Outside of coursework, I like experimenting with small projects that turn ideas into working prototypes.
 
 ## Contact
 
 - Name: Nicole Xu
-- Email: _add your email_
-- LinkedIn: _add your LinkedIn URL_
+- Email: 2584271466bxu@gmail.com
+- LinkedIn: www.linkedin.com/in/nicolexu0923
 
 ---
 
